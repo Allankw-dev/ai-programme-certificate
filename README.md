@@ -78,4 +78,4 @@ Successfully completed and certified in Artificial Intelligence.
 👨‍💻 Author
 
 Allan Kamau
-Aspiring Software Developer | AI Enthusiast
+Aspiring Software Developer | AI Enthusiast.
