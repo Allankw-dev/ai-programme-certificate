@@ -23,7 +23,7 @@ This course strengthened my understanding of how AI systems are built, trained, 
 
 ✅ Working with AI using Python
 
-✅ Basic Natural Language Processing (NLP)
+✅ Basic Natural Language Processing (NLP).
 
 ✅ AI ethics and responsible AI
 
