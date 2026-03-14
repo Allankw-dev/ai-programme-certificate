@@ -35,7 +35,7 @@ NumPy
 
 Pandas
 
-Scikit-learn
+Scikit-learn.
 
 Jupyter Notebook
 
