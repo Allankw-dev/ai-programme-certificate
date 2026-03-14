@@ -7,7 +7,7 @@ I have successfully completed a comprehensive Artificial Intelligence (AI) cours
 
 This course strengthened my understanding of how AI systems are built, trained, and deployed to solve real-world problems.
 
-🧠 Skills Acquired
+🧠 Skills Acquired.
 
 ✅ Introduction to Artificial Intelligence concepts
 
