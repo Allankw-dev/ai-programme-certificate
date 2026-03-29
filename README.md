@@ -67,7 +67,7 @@ Understand core AI algorithms
 
 🚀 Career Relevance
 
-Artificial Intelligence is one of the fastest-growing fields in technology. Completing this course has enhanced my problem-solving skills and strengthened my foundation for advanced AI, Machine Learning, and Data Science roles.
+Artificial Intelligence is one of the fastest-growing fields in technology. Completing this course has enhanced my problem-solving skills and strengthened my foundation for advanced AI, Machine Learning, and Data Science roles..
 
 📜 Certification
 
