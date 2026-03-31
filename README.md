@@ -75,7 +75,7 @@ Successfully completed and certified in Artificial Intelligence.
 
 (Certificate available upon request.)
 
-👨‍💻 Author
+👨‍💻 Author.
 .
 Allan Kamau
 Aspiring Software Developer | AI Enthusiast.
