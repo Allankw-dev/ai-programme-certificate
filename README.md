@@ -21,7 +21,7 @@ This course strengthened my understanding of how AI systems are built, trained, 
 
 ✅ Model training and evaluation
 
-✅ Working with AI using Python.
+✅ Working with AI using Python..
 
 ✅ Basic Natural Language Processing (NLP)..
 
