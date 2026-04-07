@@ -41,7 +41,7 @@ Jupyter Notebook
 
 Matplotlib
 
-📂 Projects Completed
+📂 Projects Completed.
 
 During this course, I worked on practical projects including:
 
