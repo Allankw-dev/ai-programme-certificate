@@ -9,7 +9,7 @@ This course strengthened my understanding of how AI systems are built, trained, 
 
 🧠 Skills Acquired..
 
-✅ Introduction to Artificial Intelligence concepts
+✅ Introduction to Artificial Intelligence concepts.
 
 ✅ Machine Learning fundamentals
 
