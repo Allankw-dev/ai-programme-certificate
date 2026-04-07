@@ -69,7 +69,7 @@ Understand core AI algorithms
 
 Artificial Intelligence is one of the fastest-growing fields in technology. Completing this course has enhanced my problem-solving skills and strengthened my foundation for advanced AI, Machine Learning, and Data Science roles..
 
-📜 Certification
+📜 Certification.
 
 Successfully completed and certified in Artificial Intelligence.
 
