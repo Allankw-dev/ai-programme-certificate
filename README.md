@@ -39,7 +39,7 @@ Scikit-learn
 
 Jupyter Notebook
 
-Matplotlib
+Matplotlib.
 
 📂 Projects Completed.
 
