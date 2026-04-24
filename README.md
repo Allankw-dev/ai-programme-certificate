@@ -5,7 +5,7 @@
 
 I have successfully completed a comprehensive Artificial Intelligence (AI) course, gaining foundational and practical knowledge in machine learning, data analysis, and intelligent systems development.
 
-This course strengthened my understanding of how AI systems are built, trained, and deployed to solve real-world problems..
+This course strengthened my understanding of how AI systems are built, trained, and deployed to solve real-world problems.
 
 🧠 Skills Acquired.
 
