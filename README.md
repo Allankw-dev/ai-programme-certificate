@@ -1,4 +1,4 @@
-# ai-programme-certificate..
+# ai-programme-certificate.
 
 🤖 Artificial Intelligence (AI) Course Completion.
 📌 Overview
